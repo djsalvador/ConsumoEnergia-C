@@ -1,9 +1,9 @@
-#include <stdio.h>
+
 /*
-Sabendo que 100Kw de energia custa um sétimo do salário mínimo, faça um programa em C 
-que receba o valor do salário mínimo e a quantidade de Kw gasta por uma residência, 
+Sabendo que 100Kw de energia custa um setimo do salario minimo, faca um programa em C 
+que receba o valor do salario minimo e a quantidade de Kw gasta por uma residencia, 
 calcule e imprima o valor em reais de cada Kw, o valor em reais a ser pago e o novo 
-valor a ser pago por essa residência com um desconto de 10%.
+valor a ser pago por essa residencia com um desconto de 10%.
 */
 int main(){
 	printf("===== SALARIO MINIMO E O KW GASTO POR RESIDENCIA ===== \n");
