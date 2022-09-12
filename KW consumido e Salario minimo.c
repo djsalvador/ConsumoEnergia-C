@@ -1,4 +1,4 @@
-
+//#include <stdio.h>
 /*
 Sabendo que 100Kw de energia custa um setimo do salario minimo, faca um programa em C 
 que receba o valor do salario minimo e a quantidade de Kw gasta por uma residencia, 
